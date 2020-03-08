@@ -1,0 +1,20 @@
+{
+    "name": "authentication-with-jwt---node-and-mongo",
+    "version": "1.0.0",
+    "description": "by codeblogger",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "codeblogger",
+    "license": "ISC",
+    "dependencies": {
+        "@hapi/joi": "^17.1.0",
+        "body-parser": "^1.19.0",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongodb": "^3.5.2",
+        "mongoose": "^5.7.15 ",
+        "nodemon": "^2.0.2"
+    }
+}
